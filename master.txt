@@ -1,4 +1,5 @@
 Ez egy sor.
 Masodik sor.
-Harmadik sor. (master)
+Harmadik sor. (eliot)
 Negyedik sor. (master)
+Harmadik sor. (eliot)
