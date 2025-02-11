@@ -1,3 +1,4 @@
 Ez egy sor.
 Masodik sor.
 Harmadik sor. (master)
+Negyedik sor. (master)
